@@ -36,8 +36,8 @@ This is my first(API base) project on my journey to learning and understanding f
 - [connectivity](https://pub.dev/packages/connectivity)
 
 ## UI/UX Design(portfolio)
-- http://vikrant-malla.gq/covid-19.html
-- http://vikrant-malla.gq
+- https://vikrant-malla.gq/covid-19.html
+- https://vikrant-malla.gq
 - https://www.behance.net/vikrantmalla09
 
 ## [Download APK](https://drive.google.com/uc?export=download&id=17Yjuysei2mUiqbLTU4CoRBVkLLp8GcB-)
