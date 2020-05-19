@@ -1,6 +1,6 @@
 # Flutter Application(COVID-19 Tracker)
 
-A Flutter application to view current weather status.
+A Flutter application to view current Covid-19 affected countries status.
 This is my first(API base) project on my journey to learning and understanding flutter and dart.
 
 ## Screenshots
